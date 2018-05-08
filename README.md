@@ -5,6 +5,7 @@
 - Explanation of Statistic: A writeup of the statistic invented.
 - Final Project.ipynb : Ipython notebook containing the analysis.
 - index.html : Generated html for Github pages website
+- YouTube Video : https://youtu.be/WFgZeHr3P8A
 
 
 ### Explanation of the Statistic
